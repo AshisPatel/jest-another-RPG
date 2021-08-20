@@ -1,24 +1,13 @@
 {
-  "name": "jest-another-rpg",
+  "name": "lib",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "main": "Enemy.js",
   "scripts": {
-    "jest": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AshisPatel/jest-another-RPG.git"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AshisPatel/jest-another-RPG/issues"
-  },
-  "homepage": "https://github.com/AshisPatel/jest-another-RPG#readme",
   "devDependencies": {
     "jest": "^27.0.6"
   }
